@@ -1,5 +1,6 @@
 class {
  int a =10;
-  boolean = true;
+ boolean = true;
+ double price = 10.70
 }
 
