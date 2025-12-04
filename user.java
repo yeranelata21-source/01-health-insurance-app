@@ -3,3 +3,4 @@ class {
   boolean = true;
 }
 
+int k = 18;
