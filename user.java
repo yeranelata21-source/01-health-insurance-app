@@ -4,3 +4,7 @@ class {
 }
 
 int k = 18;
+
+void m2 {
+  //jira 102
+}
